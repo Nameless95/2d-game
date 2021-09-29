@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 63
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -458,9 +458,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.060862, y: -0.39874017, z: -70.91401}
+    m_Target: {x: 1.4109671, y: 0.09068843, z: -73.186165}
     speed: 2
-    m_Value: {x: 3.060862, y: -0.39874017, z: -70.91401}
+    m_Value: {x: 1.4877225, y: 0.17270663, z: -73.16737}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -510,9 +510,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.213059
+    m_Target: 4.989744
     speed: 2
-    m_Value: 8.51104
+    m_Value: 5.224863
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -737,7 +737,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000143e00007e4a0000443b0000a63a0000ec3900003239000000000000c6390000f8390000943b00007c3b0000203b0000d8390000523b00008c39000096390000dc3900009e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
